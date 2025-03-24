@@ -12,8 +12,7 @@ export function App() {
       <Header />
     <div className={styles.wrapper}>
       <Sidebar 
-        author="Vinicius Nascimento" 
-        content="lorem ipsum dolor sit amet"
+        
       />
       <main>
       <Post 
