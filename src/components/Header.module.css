@@ -1,0 +1,14 @@
+.header {
+    background: var(--green2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0rem;
+}
+
+.header img {
+    max-height: 6rem;
+    height: auto;
+    width: auto;
+
+}
